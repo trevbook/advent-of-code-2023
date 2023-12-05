@@ -5,4 +5,6 @@ I want to keep a little logbook where I jot down some thoughts as I make my way 
 
 **December 4th @ 11:45am -** It may just be that I'm getting into the swing of things, but I found that today's puzzle was really easy - I was able to breeze through it pretty quickly 💨 I'm excited for them to get a little tougher! 
 
+**December 5th @ 1:00pm -** Today's was the first that gave me a little trouble! I ended up solving it alright, but my code is a little inelegant and messy. I decided to check out the subreddit for the first time, and found [this post visualizing the flow of the numbers through all of the maps](https://www.reddit.com/r/adventofcode/comments/18bbswp/2023_day_5_part_2python_terminal_visualization/) - VERY cool stuff.
+
 
