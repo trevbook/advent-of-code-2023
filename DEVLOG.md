@@ -7,4 +7,6 @@ I want to keep a little logbook where I jot down some thoughts as I make my way 
 
 **December 5th @ 1:00pm -** Today's was the first that gave me a little trouble! I ended up solving it alright, but my code is a little inelegant and messy. I decided to check out the subreddit for the first time, and found [this post visualizing the flow of the numbers through all of the maps](https://www.reddit.com/r/adventofcode/comments/18bbswp/2023_day_5_part_2python_terminal_visualization/) - VERY cool stuff.
 
+**December 6th @ 1:40pm -** After finishing today's puzzle (which was *quite* easy compared to yesterday), I decided to add a `time_per_day.json` file to my `data` folder. After each day's puzzle, I want to try and update this - that way, I'll have a running record of the time I spent on each puzzle, and won't need to calculate this once the challenge is over. 
+
 

@@ -1,0 +1,32 @@
+[
+    {
+        "day": 1,
+        "n_minutes_part_1": 20,
+        "n_minutes_part_2": 20
+    },
+    {
+        "day": 2,
+        "n_minutes_part_1": 64,
+        "n_minutes_part_2": 10
+    },
+    {
+        "day": 3,
+        "n_minutes_part_1": 50,
+        "n_minutes_part_2": 25
+    },
+    {
+        "day": 4,
+        "n_minutes_part_1": 17,
+        "n_minutes_part_2": 17
+    },
+    {
+        "day": 5,
+        "n_minutes_part_1": 47,
+        "n_minutes_part_2": 74
+    },
+    {
+        "day": 6,
+        "n_minutes_part_1": 21,
+        "n_minutes_part_2": 11
+    }
+]
