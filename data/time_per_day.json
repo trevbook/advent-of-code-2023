@@ -28,5 +28,10 @@
         "day": 6,
         "n_minutes_part_1": 21,
         "n_minutes_part_2": 11
+    },
+    {
+        "day": 7,
+        "n_minutes_part_1": 55,
+        "n_minutes_part_2": null
     }
 ]
