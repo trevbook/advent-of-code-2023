@@ -9,4 +9,8 @@ I want to keep a little logbook where I jot down some thoughts as I make my way 
 
 **December 6th @ 1:40pm -** After finishing today's puzzle (which was *quite* easy compared to yesterday), I decided to add a `time_per_day.json` file to my `data` folder. After each day's puzzle, I want to try and update this - that way, I'll have a running record of the time I spent on each puzzle, and won't need to calculate this once the challenge is over. 
 
+**December 7th @ 9:00am -** I'm definitely getting into the spirit of things; as I'm completing a puzzle, I keep wondering "what's the best way to do something like this?" For today's puzzle, I'm sure that there's an easy math rule that I could've applied for Part 2 to understand the value of a hand if it had jokers. I'm excited to check out the Reddit after the fact to look at the solutions! 
+
+I edited my TEMPLATE notebok today, since I realized that - as the puzzles get harder - it'll be helpful to have a "second" input file representing the smaller example case that's always included in the example. This way, I can check whether things work on the example before actually submitting the "real" answer. 
+
 
