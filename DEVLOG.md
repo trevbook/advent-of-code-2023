@@ -13,4 +13,6 @@ I want to keep a little logbook where I jot down some thoughts as I make my way 
 
 I edited my TEMPLATE notebok today, since I realized that - as the puzzles get harder - it'll be helpful to have a "second" input file representing the smaller example case that's always included in the example. This way, I can check whether things work on the example before actually submitting the "real" answer. 
 
+**December 9th @ 1:45pm -** Yesterday, while I was on a plane back home to NYC, I'd started Part 1 of Puzzle 8. The plane Wi-Fi was a little buggy, and I wasn't able to actually download Part 2; my timekeeping on stuff is a little off for sure. There was also a weird bug when submitting my answer, where it'd said I was wrong, but the site now says it was right. Whatever - I'll just move onto part 2 😉
+
 
