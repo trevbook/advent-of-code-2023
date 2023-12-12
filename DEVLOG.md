@@ -15,4 +15,17 @@ I edited my TEMPLATE notebok today, since I realized that - as the puzzles get h
 
 **December 9th @ 1:45pm -** Yesterday, while I was on a plane back home to NYC, I'd started Part 1 of Puzzle 8. The plane Wi-Fi was a little buggy, and I wasn't able to actually download Part 2; my timekeeping on stuff is a little off for sure. There was also a weird bug when submitting my answer, where it'd said I was wrong, but the site now says it was right. Whatever - I'll just move onto part 2 😉
 
+**December 12th @ 2:50am -** Just finished doing Day 11! I still haven't technically finished Day 10, since the flood fill aspect of things was harshing my mellow. Still, I wanted to keep my momentum going, so I just skipped it for now and moved onto Day 11's puzzle. I gotta say: I tried to go a lot slower with this one, and I was happy for it... BUT! I didn't go slowly enough at the beginning, apparently 😅 
+
+The entire 2 hours (which wasn't *entirely* focused on AoC, but mostly) for Part 1 could've been done in the 25min of Part 2 if I had thought of the problem as a projection problem. I instead spent a ton of time recreating arrays. If there's one thing about today's puzzle I want to stick with me, I'd like to remember: another 5-10 minutes thinking about the problem at the beginning can save you a lot of time! 
+
+As a part of going slowly, I also spent some time writing out notes on a piece of paper. My secondary lesson of the day is: this has been immensely helpful for solving the problems, and I should do this again. 
+
+Alright, enough rambling - it's 3:00am and I need sleep 😴 Tonight was fun, though! 
+
+
+
+
+
+
 

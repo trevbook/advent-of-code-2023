@@ -43,5 +43,6 @@
     "day": 9,
     "n_minutes_part_1": 50,
     "n_minutes_part_2": 4
-  }
+  },
+  { "day": 11, "n_minutes_part_1": 117, "n_minutes_part_2": 24 }
 ]
